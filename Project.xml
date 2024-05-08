@@ -125,6 +125,8 @@
 	<haxelib name="flxanimate" /> <!-- Texture atlas rendering -->
 	<haxelib name="hxCodec" if="desktop || android" unless="hl" /> <!-- Video playback -->
 	<haxelib name="funkin.vis"/>
+	<haxelib name="extension-androidtools" if="android"/>
+
 
 
 	<haxelib name="json2object" /> <!-- JSON parsing -->
